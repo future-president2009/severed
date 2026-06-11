@@ -21,7 +21,7 @@
 import { useState, useMemo, useCallback } from 'react';
 import { MapContainer, TileLayer, Marker, GeoJSON } from 'react-leaflet';
 import L from 'leaflet';
-import type { GeoJsonObject } from 'geojson';
+import type { FeatureCollection } from 'geojson';
 
 import data from '@/data/severed-data.json';
 import type { SeveredData, Site, AccessStatus, TraditionGroup } from '@/types/severed-types';
@@ -33,7 +33,7 @@ const typed = data as SeveredData;
 // Replace with proper sourced border data before publication.
 // ---------------------------------------------------------------------------
 
-const RADCLIFFE_LINE: GeoJsonObject = {
+const RADCLIFFE_LINE: FeatureCollection = {
   type: 'FeatureCollection',
   features: [
     {
