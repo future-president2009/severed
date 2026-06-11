@@ -1,0 +1,1333 @@
+{
+  "meta": {
+    "version": "0.1.0-mvp",
+    "lastUpdated": "2026-05-20",
+    "sitesCount": 28,
+    "flagshipsCount": 4,
+    "editorialNote": "MVP data file. Several site coordinates are approximate and flagged for verification. Image src paths are placeholders — replace with sourced and licensed images before publication. Flagship body footnotes are representative; refine before publication. Multan Sun Temple (id 24) is low-confidence and may be dropped from MVP."
+  },
+  "sites": [
+    {
+      "id": 1,
+      "slug": "kartarpur-sahib",
+      "name": "Gurdwara Darbar Sahib Kartarpur",
+      "altNames": [
+        "Kartarpur Sahib"
+      ],
+      "tradition": "Sikh",
+      "traditionGroup": "Sikh",
+      "country": "Pakistan",
+      "region": "Punjab",
+      "locality": "Kartarpur, Narowal District",
+      "coordinates": {
+        "lat": 32.0344,
+        "lng": 74.8806
+      },
+      "accessStatus": "partial",
+      "severanceDirection": "cutoff-india-to-pakistan",
+      "severanceDescription": "Cut off from Indian Sikhs after 1947; partial access since the Kartarpur Corridor opened in 2019.",
+      "popupSummary": "Where Guru Nanak spent the last 18 years of his life and died in 1539. The site holds both a samadh and a grave, marking the resolution of a dispute between his Hindu and Muslim devotees over his last rites. Abandoned in 1947, briefly fell to smugglers in the 1980s, and finally reopened to Indian Sikh pilgrims via a visa-free corridor in November 2019 — the only such corridor across the partition line.",
+      "flagship": true,
+      "heroImage": {
+        "src": "/images/flagships/kartarpur-hero.jpg",
+        "alt": "Gurdwara Darbar Sahib Kartarpur, white marble dome under blue sky",
+        "credit": "Shahzaib Damn Cruze / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "Gurdwara Darbar Sahib Kartarpur, present marble structure built under Maharaja Ranjit Singh.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gurdwara%20Darbar%20Sahib%20Kartarpur%20b.jpg"
+      },
+      "gallery": [
+        {
+          "src": "/images/flagships/kartarpur-corridor.jpg",
+          "alt": "Indian pilgrims arriving via the Kartarpur Corridor",
+          "credit": "Harvinder Chandigarh / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "caption": "Indian pilgrims crossing into Pakistan via the Kartarpur Corridor, November 2019.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The%20art-%20installation%20at%20Indian%20side%20of%20Kartarpur%20Corridor%20%2C%20Dera%20Baba%20Nanak.jpg"
+        },
+        {
+          "src": "/images/flagships/kartarpur-fields.jpg",
+          "alt": "The darshan sthan viewing platform at Dera Baba Nanak, India",
+          "credit": "Harvinder Chandigarh / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "caption": "The darshan sthan in India, from which Sikhs once viewed Kartarpur Sahib through binoculars.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agricultural%20fields%20where%20Guru%20Nanak%20used%20to%20perform%20cultivation%2C%20Gurdwara%20Darbar%20Sahib%20Kartarpur%20%2CPakistan%2008.jpg"
+        },
+        {
+          "src": "/images/flagships/kartarpur-grave.jpg",
+          "alt": "The samadh of Guru Nanak inside the main shrine at Kartarpur — the Sikh-tradition memorial that resolved (one half of) the dispute over his last rites.",
+          "caption": "The samadh inside the main shrine. According to legend, when devotees uncovered the body the morning after Guru Nanak's death, only flowers remained — half were cremated under this samadh, half buried in a grave outside.",
+          "credit": "Amarjit Chandan / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baba%20Nanak%20di%20samadhi.%20Kartarpur.jpg"
+        }
+      ],
+      "body": "Guru Nanak founded Kartarpur in 1515. He spent the last eighteen years of his life on the western bank of the Ravi River, cultivating land, preaching, refining what would become the three pillars of Sikhism — *kirat karo, vand chhako, naam japo*. When he died on September 22, 1539, his Hindu and Muslim devotees argued over what to do with the body. The Hindus wanted to cremate him; the Muslims wanted to bury him. According to Sikh tradition the dispute was resolved by Nanak himself, who appeared to his followers and asked them to postpone the decision until morning. When they returned, only flowers remained beneath the shroud. The Hindus took half and burned them. The Muslims took half and buried them. To this day, Gurdwara Darbar Sahib Kartarpur contains both a *samadh* and a grave, a few meters apart.[^1] It is possibly the only major religious site in the world that holds both at the same time — a literal architecture of the syncretism Nanak preached.\n\nTwo centuries later the Ravi changed course and washed away the original abode. Maharaja Ranjit Singh built the present marble structure in the early nineteenth century.[^2] By the early twentieth century Kartarpur had become a thriving Sikh village; pilgrims came from across Punjab, often on foot.\n\nThen in August 1947 Cyril Radcliffe drew his line. Kartarpur fell three kilometers to the west of it. The Sikh community migrated almost entirely to the Indian side — most of them to Dera Baba Nanak, the town founded by Nanak's father-in-law that now sits across the river from the gurdwara. For more than seventy years afterward, Sikhs on the Indian side could see the white dome of Kartarpur Sahib with binoculars from a viewing platform — the *darshan sthan* — but could not legally walk the three kilometers to reach it. The journey by land required a 125-kilometer detour through Lahore, a Pakistani visa, and weeks of bureaucracy. Most Sikhs in Indian Punjab never made it in their lifetimes.\n\nThe shrine itself, abandoned on the Pakistani side, did not fare much better. By the 1980s it had become derelict; the surrounding fields fell under the informal control of cross-border smugglers, who used the route through Kartarpur during the years that heroin flowed through General Zia-ul-Haq's Pakistan. Drug addicts slept inside the gurdwara. The Pakistani writer Haroon Khalid, who has documented these gurdwaras across Punjab, notes that even through these decades a small number of local Muslim devotees — descendants of Nanak's own Muslim followers — continued to visit the grave outside the main shrine and leave offerings.[^3] The Sikhs had left. The Muslims who had buried his flowers had not.\n\nThe corridor that now connects Dera Baba Nanak to Kartarpur Sahib was proposed in 1998 and ignored for twenty years. It finally opened on November 9, 2019, timed to the 550th birth anniversary of Guru Nanak.[^4] Imran Khan called it \"opening our hearts to Sikhs.\" Narendra Modi compared it to the fall of the Berlin Wall. The agreement allowed up to 5,000 Indian pilgrims to cross daily, visa-free, with only a passport and an online permit. Pakistan levied a twenty-dollar service charge per pilgrim that India has formally objected to but never refused to pay.\n\nThe corridor was closed during the pandemic, reopened in November 2021, and renewed in 2024 for another five years through 2029.[^5] More than 110,000 Indian pilgrims have used it. Sporadic closures still occur — most recently in May 2025, without public explanation. Pakistani Sikhs, a community of fewer than 20,000 people, still require Indian visas to make the reverse pilgrimage to Dera Baba Nanak.\n\nWhat Kartarpur represents in the wider story of partition is not closure but a particular kind of asymmetry. The corridor is real and remarkable. It is also, for the rest of partition's severed geography, conspicuously alone. There is no equivalent for Sharada Peeth, ten kilometers from the Line of Control in Kashmir; no equivalent for Hinglaj in Balochistan; no equivalent for the Sufi shrines on either side whose pilgrims now apply for visas that are increasingly refused. Kartarpur is what happens when the two governments decide, briefly, that a particular wound can be salved. For everything else, the wound stays open.\n",
+      "pullQuote": "It is possibly the only major religious site in the world that holds both a samadh and a grave at the same time — a literal architecture of the syncretism Nanak preached.",
+      "wordCount": 615,
+      "sources": [
+        {
+          "id": 1,
+          "type": "article",
+          "title": "Nanak's Muslim devotees never abandoned Kartarpur Sahib, his final resting place",
+          "author": "Haroon Khalid",
+          "publication": "Scroll.in",
+          "date": "2017-11-10",
+          "url": "https://scroll.in/article/857302/",
+          "note": "Source for samadh + grave coexistence and Muslim devotional continuity."
+        },
+        {
+          "id": 2,
+          "type": "wikipedia",
+          "title": "Gurdwara Darbar Sahib Kartarpur",
+          "publication": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gurdwara_Darbar_Sahib_Kartarpur",
+          "note": "For structural history and Maharaja Ranjit Singh attribution."
+        },
+        {
+          "id": 3,
+          "type": "article",
+          "title": "Kartarpur Corridor must not lead to exclusion of Guru Nanak's Muslim devotees from shrine",
+          "author": "Haroon Khalid",
+          "publication": "Scroll.in",
+          "date": "2018-12-07",
+          "url": "https://scroll.in/article/904801/",
+          "note": "Source for the abandoned-shrine-and-smuggling era account."
+        },
+        {
+          "id": 4,
+          "type": "official",
+          "title": "Kartarpur Corridor (Project Page)",
+          "publication": "Pakistan Ministry of Religious Affairs and Interfaith Harmony",
+          "url": "https://www.mora.gov.pk/",
+          "note": "Daily pilgrim cap, corridor inauguration details."
+        },
+        {
+          "id": 5,
+          "type": "article",
+          "title": "Kartarpur corridor to reopen from November 17",
+          "publication": "Deccan Herald",
+          "date": "2021-11-15",
+          "note": "For corridor reopening after COVID and renewal details."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "nankana-sahib",
+      "name": "Gurdwara Janam Asthan Nankana Sahib",
+      "altNames": [
+        "Nankana Sahib"
+      ],
+      "tradition": "Sikh",
+      "traditionGroup": "Sikh",
+      "country": "Pakistan",
+      "region": "Punjab",
+      "locality": "Nankana Sahib",
+      "coordinates": {
+        "lat": 31.4517,
+        "lng": 73.705
+      },
+      "accessStatus": "restricted",
+      "severanceDirection": "cutoff-india-to-pakistan",
+      "severanceDescription": "Cut off from Indian Sikhs after 1947; accessible via group visa jathas.",
+      "popupSummary": "Where Guru Nanak was born in 1469 — the holiest birthplace site in Sikhism. Indian pilgrims now come only in organized jathas, a few thousand a year, and only when the two governments permit. The community that lived here in 1947 left almost entirely.",
+      "flagship": false,
+      "sources": [
+        {
+          "id": 1,
+          "type": "wikipedia",
+          "title": "Nankana Sahib",
+          "publication": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nankana_Sahib"
+        }
+      ],
+      "heroImage": {
+        "src": "/images/sites/nankana-sahib.jpg",
+        "alt": "Gurdwara Janam Asthan at Nankana Sahib, birthplace of Guru Nanak",
+        "caption": "The gurdwara at Guru Nanak's birthplace in present-day Pakistan.",
+        "credit": "Shaguftakarim / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarovar%20at%20Gurdwara%20Nankana%20Sahib%20Janam%20Asthan.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "slug": "panja-sahib",
+      "name": "Gurdwara Panja Sahib",
+      "altNames": [
+        "Hasan Abdal Gurdwara"
+      ],
+      "tradition": "Sikh",
+      "traditionGroup": "Sikh",
+      "country": "Pakistan",
+      "region": "Punjab",
+      "locality": "Hasan Abdal, Attock District",
+      "coordinates": {
+        "lat": 33.8222,
+        "lng": 72.69
+      },
+      "accessStatus": "restricted",
+      "severanceDirection": "cutoff-india-to-pakistan",
+      "severanceDescription": "Cut off from Indian Sikhs after 1947; group pilgrimages permitted.",
+      "popupSummary": "Sikh tradition holds that Guru Nanak stopped a falling boulder here with his hand; the imprint is preserved in stone. Vaisakhi still draws large crowds. But the gurdwara's land, like much of the abandoned Sikh property in Pakistan, sits under an Evacuee Trust Property Board that has lately been accused of selling pieces of it off.",
+      "flagship": false,
+      "sources": [
+        {
+          "id": 1,
+          "type": "article",
+          "title": "Condition of Gurdwaras and Temples in Pakistan in a Dilapidated State",
+          "publication": "Khalsa Vox",
+          "date": "2026-02-25"
+        }
+      ],
+      "heroImage": {
+        "src": "/images/sites/panja-sahib.jpg",
+        "alt": "Gurdwara Panja Sahib in Hasan Abdal, with the sacred rock",
+        "caption": "The shrine at Hasan Abdal, where tradition holds Guru Nanak left a handprint in stone.",
+        "credit": "Dhanna Singh Chahal 'Patialvi' (born as Lal Singh Chahal) / Wikimedia Commons",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gurdwara%20Panja%20Sahib%2C%20Hasan%20Abdal%20in%20April%201932.webp"
+      }
+    },
+    {
+      "id": 4,
+      "slug": "gurdwara-dera-sahib",
+      "name": "Gurdwara Dera Sahib",
+      "tradition": "Sikh",
+      "traditionGroup": "Sikh",
+      "country": "Pakistan",
+      "region": "Punjab",
+      "locality": "Lahore",
+      "coordinates": {
+        "lat": 31.588,
+        "lng": 74.312
+      },
+      "accessStatus": "restricted",
+      "severanceDirection": "cutoff-india-to-pakistan",
+      "severanceDescription": "Cut off from Indian Sikhs after 1947.",
+      "popupSummary": "The place where the fifth Sikh Guru, Arjan Dev, was tortured to death by Mughal authorities in 1606. It sits in the heart of old Lahore, beside the fort and Ranjit Singh's samadhi — a piece of central Sikh memory whose city is now another country.",
+      "flagship": false,
+      "sources": [
+        {
+          "id": 1,
+          "type": "wikipedia",
+          "title": "Gurdwara Dera Sahib",
+          "publication": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gurdwara_Dera_Sahib"
+        }
+      ],
+      "heroImage": {
+        "src": "/images/sites/gurdwara-dera-sahib.jpg",
+        "alt": "Gurdwara Dera Sahib in Lahore, adjacent to the Lahore Fort",
+        "caption": "The site of Guru Arjan Dev's martyrdom, beside the Lahore Fort.",
+        "credit": "Rao Umair Khan / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gurdwara%20Dera%20Sahib%20Lahore%20View.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "slug": "gurdwara-choa-sahib",
+      "name": "Gurdwara Choa Sahib",
+      "tradition": "Sikh",
+      "traditionGroup": "Sikh",
+      "country": "Pakistan",
+      "region": "Punjab",
+      "locality": "Jhelum District",
+      "coordinates": {
+        "lat": 32.97,
+        "lng": 73.58
+      },
+      "accessStatus": "reopened",
+      "severanceDirection": "cutoff-india-to-pakistan",
+      "severanceDescription": "Cut off from Indian Sikhs 1947-2019; reopened August 2019.",
+      "popupSummary": "A gurdwara associated with Guru Nanak's travels, sitting in the shadow of the UNESCO-listed Rohtas Fort. Closed in 1947, forgotten for seventy-two years. It reopened in August 2019, the same month as the Kartarpur Corridor — a brief Pakistani gesture timed to Nanak's 550th birth anniversary.",
+      "flagship": false,
+      "sources": [
+        {
+          "id": 1,
+          "type": "article",
+          "title": "72 years after Partition, Pak opens Gurdwara Choa Sahib for Sikh devotees",
+          "publication": "Tribune India",
+          "date": "2019-08-02"
+        }
+      ],
+      "heroImage": {
+        "src": "/images/sites/gurdwara-choa-sahib.jpg",
+        "alt": "Gurdwara Choa Sahib in Jhelum District, Pakistan",
+        "caption": "The gurdwara at Choa Saidan Shah, near the Rohtas Fort.",
+        "credit": "Usman.pg / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rohtas%2013%20by%20Usman%20Ghani.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "slug": "gurdwara-rori-sahib-jahman",
+      "name": "Gurdwara Rori Sahib (Jahman)",
+      "altNames": [
+        "Patshahi Pehli"
+      ],
+      "tradition": "Sikh",
+      "traditionGroup": "Sikh",
+      "country": "Pakistan",
+      "region": "Punjab",
+      "locality": "Jahman village, Lahore District",
+      "coordinates": {
+        "lat": 31.38,
+        "lng": 74.52
+      },
+      "accessStatus": "defunct",
+      "severanceDirection": "cutoff-india-to-pakistan",
+      "severanceDescription": "Abandoned 1947; militarized after 1965 war; structure collapsed entirely in July 2023.",
+      "popupSummary": "Built under Maharaja Ranjit Singh in the early 1800s and abandoned in 1947. The Pakistan Rangers took it over as a border outpost after the 1965 war; civilians weren't allowed near. In July 2023 the gurdwara collapsed entirely — the most absolute form of severance on this map.",
+      "flagship": false,
+      "sources": [
+        {
+          "id": 1,
+          "type": "wikipedia",
+          "title": "Gurdwara Rori Sahib (Jahman)",
+          "publication": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gurdwara_Rori_Sahib_(Jahman)"
+        }
+      ],
+      "heroImage": {
+        "src": "/images/sites/gurdwara-rori-sahib-jahman.jpg",
+        "alt": "Gurdwara Rori Sahib in Jahman village, pre-2023 collapse",
+        "caption": "The gurdwara before its July 2023 collapse — most images now exist only as memory.",
+        "credit": "Unknown artist; photographed by Haroon Khalid / Wikimedia Commons",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Defaced%20and%20decaying%20fresco%20formerly%20depicting%20Guru%20Gobind%20Singh%2C%20located%20underneath%20the%20dome%20of%20Gurdwara%20Rori%20Sahib%20in%20Jahman%20village%2C%20Lahore%20district%2C%20Punjab%2C%20Pakistan.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "slug": "gurdwara-ratan-talao",
+      "name": "Gurdwara Ratan Talao",
+      "tradition": "Sikh",
+      "traditionGroup": "Sikh",
+      "country": "Pakistan",
+      "region": "Sindh",
+      "locality": "Preddy Street, Karachi",
+      "coordinates": {
+        "lat": 24.8608,
+        "lng": 67.0233
+      },
+      "accessStatus": "inaccessible",
+      "severanceDirection": "cutoff-india-to-pakistan",
+      "severanceDescription": "Site of a 1947 massacre of approximately 250 Sikhs; community displaced.",
+      "popupSummary": "A Karachi gurdwara founded before partition by the Sri Guru Singh Sabha. In 1947, around 250 Sikhs taking shelter inside were killed — one of the deadliest incidents of partition-era violence against the city's Sikh community, almost forgotten outside it.",
+      "flagship": false,
+      "sources": [
+        {
+          "id": 1,
+          "type": "wikipedia",
+          "title": "Gurdwara Ratan Talao",
+          "publication": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gurdwara_Ratan_Talao"
+        }
+      ],
+      "heroImage": {
+        "src": "/images/sites/gurdwara-ratan-talao.jpg",
+        "alt": "The ruins of Gurdwara Ratan Talao on Temple Road in Karachi, hidden inside the grounds of what is now Government Ziauddin Memorial College Nabi Bagh.",
+        "credit": "Photo by Farooq Soomro / The Karachi Walla",
+        "license": "Used with permission",
+        "sourceUrl": "https://tribune.com.pk/story/822733/discover-karachi"
+      }
+    },
+    {
+      "id": 8,
+      "slug": "gurdwara-pakhoke",
+      "name": "Gurdwara Pakhoke Patshahi Pehli",
+      "tradition": "Sikh",
+      "traditionGroup": "Sikh",
+      "country": "Pakistan",
+      "region": "Punjab",
+      "locality": "Pakhoke, Narowal District",
+      "coordinates": {
+        "lat": 32.1,
+        "lng": 75.05
+      },
+      "accessStatus": "inaccessible",
+      "severanceDirection": "cutoff-india-to-pakistan",
+      "severanceDescription": "Cut off from Indian Sikhs after 1947; in ruins.",
+      "popupSummary": "One of roughly 250 historical Sikh shrines in Pakistan that pre-1947 Gurmukhi texts described in careful detail — and that the community then lost. Rediscovered only recently, by researchers reading old books to find sites no one alive remembers visiting.",
+      "flagship": false,
+      "sources": [
+        {
+          "id": 1,
+          "type": "article",
+          "title": "Pakistan's forgotten gurdwaras: Lost to memory, rediscovered through pre-1947 Gurmukhi texts",
+          "publication": "Tribune India",
+          "date": "2026"
+        }
+      ],
+      "heroImage": {
+        "src": "/images/sites/gurdwara-pakhoke.jpg",
+        "alt": "Gurdwara Pakhoke Patshahi Pehli in Narowal district, rediscovered through pre-1947 Gurmukhi texts and currently abandoned in the fields where Guru Nanak's wife and sons lived for three weeks in 1515.",
+        "credit": "Photograph courtesy of Jeevay Sanjha Punjab",
+        "license": "Used with permission",
+        "sourceUrl": "https://www.tribuneindia.com/news/diaspora/rediscovering-forgotten-gurdwaras-in-pakistan-through-pre-1947-gurmukhi-books/"
+      }
+    },
+    {
+      "id": 9,
+      "slug": "hinglaj-mata",
+      "name": "Hinglaj Mata Mandir",
+      "altNames": [
+        "Nani Mandir",
+        "Bibi Nani ka Mandir",
+        "Hingula Devi"
+      ],
+      "tradition": "Hindu (Shakti)",
+      "traditionGroup": "Hindu",
+      "country": "Pakistan",
+      "region": "Balochistan",
+      "locality": "Hingol National Park, Lasbela District",
+      "coordinates": {
+        "lat": 25.5167,
+        "lng": 65.5167
+      },
+      "accessStatus": "active",
+      "severanceDirection": "cutoff-india-to-pakistan",
+      "severanceDescription": "Indian Hindu pilgrimage ended abruptly in 1947; resumed only sporadically since 2006. Pakistani Hindus and Baloch Muslims still attend in tens of thousands.",
+      "popupSummary": "A cave shrine in the Balochistan desert; one of 51 Shakti Peethas, the spot where Sati's head is said to have fallen. The annual pilgrimage dates back at least sixteen centuries. Uniquely, the local Baloch Muslim community — especially the Zikri sect — venerates the goddess as 'Nani' (maternal grandmother) and calls the pilgrimage 'Nani ka Haj.' Indian Hindu pilgrimage ended in 1947 and has barely resumed.",
+      "flagship": true,
+      "heroImage": {
+        "src": "/images/flagships/hinglaj-hero.jpg",
+        "alt": "Pilgrims approaching the Hinglaj Mata cave shrine in the Kirthar mountains",
+        "credit": "Abrar Alam Khan / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "caption": "The Hinglaj Mata shrine sits inside a cave in the Kirthar mountains of Balochistan.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hinglaj%20Mata%20Mandir%20Cave%20entrance%2C%20Pakistan%20-%20panoramio.jpg"
+      },
+      "gallery": [
+        {
+          "src": "/images/flagships/hinglaj-pilgrims.jpg",
+          "alt": "Hindu pilgrims at the annual Hinglaj Yatra",
+          "credit": "Banksboomer / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "caption": "The annual yatra in April draws hundreds of thousands of pilgrims.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Devotees%20going%20to%20Baba%20Chandragup%20volcano%20on%20their%20way%20to%20Hinglaj%20Mata.jpg"
+        },
+        {
+          "src": "/images/flagships/hinglaj-landscape.jpg",
+          "alt": "Rock formations of Hingol National Park surrounding the shrine",
+          "credit": "wetlandsofpakistan / Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "caption": "The desert landscape around Hinglaj is largely unchanged from when ancient Sanskrit texts called it Marutirtha.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Princess%20of%20Hope%2C%20Hingol%20National%20Park.jpg"
+        },
+        {
+          "src": "/images/flagships/hinglaj-cave.jpg",
+          "alt": "The interior of the Hinglaj cave shrine",
+          "credit": "Bilal Mirza / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "caption": "The cave itself is the shrine; there is no built temple structure.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hinglaj%20Mata%20and%20Mandir.jpg"
+        }
+      ],
+      "body": "The shrine sits inside a cave at the foot of the Kirthar mountains, on the bank of the Hingol River, in the most thinly populated province of Pakistan. Reaching it once meant a four-day journey through the desert from Karachi, on foot or by camel, sustained by water carried in goatskins. Today the Makran Coastal Highway runs near it, but the landscape around the temple is still effectively unchanged from what it was when the Greek geographers of the second century called the region by its Sanskrit name, Marutirtha — \"the shrine of the desert.\"[^1]\n\nIn Hindu tradition, Hinglaj is one of the fifty-one Shakti Peethas, the places where the dismembered body of the goddess Sati fell when Shiva, mad with grief, carried her corpse across the cosmos. Sati's head fell here. The cave is the goddess. The annual pilgrimage to her, Hinglaj Yatra, has been documented in Sanskrit and Persian texts from at least the fourth century CE.[^2] For centuries the pilgrimage drew Hindus from across the subcontinent — Punjab, Sindh, Gujarat, sometimes as far as Bengal. There was no equivalent shrine. Sati's head had fallen here, and pilgrims came here.\n\nWhat makes Hinglaj different from almost every other Hindu site in Pakistan is who else considers it sacred. The Baloch Muslims of the surrounding region — particularly the Zikri sect — call the shrine *Nani Mandir* or *Bibi Nani ka Mandir*, \"the temple of the maternal grandmother.\" Their term for the pilgrimage is *Nani ka Haj*.[^3] They do not consider this a courtesy to Hindu neighbors. They consider the goddess theirs. When the Hinglaj Yatra takes place each April, Hindu pilgrims and Zikri Muslims share the route, the rituals, and the food. The Baloch Muslims have, by most accounts, also provided security for the shrine in periods when the Pakistani state was inattentive or hostile. In the Hindu-nationalist political vocabulary, Hinglaj is sometimes presented as proof that Hindu sacred geography \"extends beyond the political lines drawn in 1947.\" That framing flattens what is actually a more interesting fact: at Hinglaj, the goddess belongs to multiple religious communities at once, and has done so for longer than the political lines have existed.\n\nWhen the Radcliffe Line fell across Punjab in 1947, the Hindus of Punjab and most of the Hindus of Sindh either migrated or were killed. The shrine itself remained where it had been, but the pilgrimage from India ended abruptly. For Hindus across the new border who had walked or sailed to Hinglaj before partition, the route closed entirely. The pilgrimage continued — Pakistani Hindus, mostly Sindhi and Balochi, still made the journey — but the four-day procession from the Karachi side now had no Indian devotees in it.\n\nThe first Indian pilgrimage since 1947 took place in February 2006, during a brief diplomatic thaw between the two governments. It was led by Jaswant Singh, a former Indian foreign minister, and included a small delegation of Hindu nationalist politicians.[^4] The visit was unprecedented enough that it was treated as international news. Since then, occasional Indian pilgrims have made the journey, sometimes from third countries; visa procedures remain difficult. Pakistani Hindus and Baloch Muslims continue to attend in their tens of thousands. The 2024 yatra reportedly drew over 250,000 pilgrims, making it the largest Hindu pilgrimage in Pakistan.[^5]\n\nThe most useful thing Hinglaj does for the broader story of severance is complicate it. Partition did not destroy the shrine; it did not erase its worshippers; it did not even fully sever the pilgrimage. What it did was end the cross-border component of a syncretic tradition that had existed for at least sixteen centuries. The Indian Hindus who used to come to Hinglaj are now mostly old enough to remember their parents or grandparents speaking about the journey. The Baloch Muslims who venerate Nani as a maternal grandmother continue to walk the route. The pilgrimage is still alive. The map it once existed on is gone.\n",
+      "pullQuote": "The Baloch Muslims of the surrounding region — particularly the Zikri sect — call the shrine Nani Mandir. Their term for the pilgrimage is Nani ka Haj.",
+      "wordCount": 560,
+      "sources": [
+        {
+          "id": 1,
+          "type": "wikipedia",
+          "title": "Hinglaj",
+          "publication": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hinglaj",
+          "note": "Geographic detail and Marutirtha designation."
+        },
+        {
+          "id": 2,
+          "type": "article",
+          "title": "Hinglaj Mata Mandir in Balochistan, Pakistan",
+          "publication": "Religions (Booksfact)",
+          "url": "https://www.booksfact.com/religions/hinglaj-mata-mandir-balochistan-pakistan.html",
+          "note": "Tantric textual citations dating the pilgrimage; consider replacing with academic source."
+        },
+        {
+          "id": 3,
+          "type": "article",
+          "title": "Pakistan: Hinglaj Mata's victory chants resonate the air along banks of Hingol river",
+          "publication": "Organiser",
+          "date": "2024-05-02",
+          "url": "https://organiser.org/2024/05/02/235397/",
+          "note": "Source for Zikri-specific terminology. Hindu-nationalist outlet; verify against academic anthropology before publication."
+        },
+        {
+          "id": 4,
+          "type": "article",
+          "title": "Forgotten Peace Dividend: Katas Raj Temples Restoration, Mata Hinglaj Pilgrimage To Pakistan",
+          "publication": "MyPluralist",
+          "date": "2024-11-08",
+          "url": "https://mypluralist.com/2024/11/08/katas-raj-temples-2/",
+          "note": "2006 Indian pilgrimage led by Jaswant Singh."
+        },
+        {
+          "id": 5,
+          "type": "article",
+          "title": "Hindu devotees from India, Pakistan attend famous Hinglaj Mata festival in Balochistan",
+          "publication": "Deccan Herald",
+          "date": "2022",
+          "note": "For pilgrim attendance figures."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "katas-raj",
+      "name": "Katas Raj Temples",
+      "altNames": [
+        "Qila Katas"
+      ],
+      "tradition": "Hindu (Shaiva)",
+      "traditionGroup": "Hindu",
+      "country": "Pakistan",
+      "region": "Punjab",
+      "locality": "Katas Village, Chakwal District",
+      "coordinates": {
+        "lat": 32.7236,
+        "lng": 72.9472
+      },
+      "accessStatus": "partial",
+      "severanceDirection": "cutoff-india-to-pakistan",
+      "severanceDescription": "Indian Hindu pilgrimage forbidden 1956-1984; restored 2006-2017.",
+      "popupSummary": "A complex of seven Hindu temples ringing a sacred pond, with over 1,500 years of history. Tradition holds the Pandavas spent part of their exile here. Indian pilgrims were barred in 1956, again in 1960, again after the 1965 war. They returned only in 1984. The complex is partially restored, partially still in ruins.",
+      "flagship": false,
+      "sources": [
+        {
+          "id": 1,
+          "type": "wikipedia",
+          "title": "Katas Raj Temples",
+          "publication": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Katas_Raj_Temples"
+        }
+      ],
+      "heroImage": {
+        "src": "/images/sites/katas-raj.jpg",
+        "alt": "The temple complex at Katas Raj in Chakwal District, around its sacred pond",
+        "caption": "The seven-temple complex ringing the sacred pond at Katas Raj.",
+        "credit": "Zhyusuf / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Katas%20Raj%20Temple%2C%20Lahore38.JPG"
+      }
+    },
+    {
+      "id": 11,
+      "slug": "sharada-peeth",
+      "name": "Sharada Peeth",
+      "altNames": [
+        "Sharda Peeth",
+        "Sharada Amrit Kund",
+        "Saraswati Temple"
+      ],
+      "tradition": "Hindu (Shakti) / Buddhist learning center",
+      "traditionGroup": "Hindu",
+      "country": "Pakistan-administered Kashmir",
+      "region": "Azad Jammu and Kashmir",
+      "locality": "Sharda, Neelum Valley",
+      "coordinates": {
+        "lat": 34.7892,
+        "lng": 74.185
+      },
+      "accessStatus": "inaccessible",
+      "severanceDirection": "internal-displacement",
+      "severanceDescription": "Cut off from Kashmiri Pandits in 1947-48; community itself displaced from Kashmir Valley in 1990. Site sits 10 km from a militarized Line of Control.",
+      "popupSummary": "A 1,500-year-old temple-university in the Himalayan Neelum Valley. The Sharada script — ancestor of Gurmukhi, Takri, and (indirectly) Devanagari — is named after it. Kashmir was classically called Sharada Desh, 'the country of Sharada.' The site has been inaccessible to Kashmiri Pandits since 1947, and the Sharada Corridor proposal collapsed after India revoked Article 370 in 2019.",
+      "flagship": true,
+      "heroImage": {
+        "src": "/images/flagships/sharada-hero.jpg",
+        "alt": "The ruins of Sharada Peeth temple in the Neelum Valley",
+        "credit": "Umar Jamshaid / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "caption": "Sharada Peeth in the Neelum Valley, ten kilometers from the Line of Control.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sharda%20Fort%2C%20Azad%20Jammu%20%26%20Kashmir.jpg"
+      },
+      "gallery": [
+        {
+          "src": "/images/flagships/sharada-ruins-closeup.jpg",
+          "alt": "The remaining walls of the Sharada Peeth temple complex",
+          "credit": "Muhammad Adnan (madnan) / Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "caption": "Walls of the temple structure, partially intact after the 2005 Kashmir earthquake.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sharda%20Peeth%204.jpg"
+        },
+        {
+          "src": "/images/flagships/sharada-script-manuscript.jpg",
+          "alt": "A medieval manuscript in the Sharada script",
+          "credit": "Ms Sarah Welch / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "caption": "A manuscript in the Sharada script, the writing system named for the temple.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sharada%20script%20manuscript%2C%20Kashmir.jpg"
+        },
+        {
+          "src": "/images/flagships/sharada-tikker.jpg",
+          "alt": "The Karnah valley in Kupwara district, Indian-administered Kashmir — the landscape just below the Tikker substitute pilgrimage site, with the LoC running through the Kishanganga river behind.",
+          "caption": "The Karnah valley in Kupwara district. The Tikker substitute pilgrimage site sits in this landscape, less than a kilometre from the Line of Control. The original Sharada Peeth lies on the other side of the river visible here.",
+          "credit": "Hafeez wani / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karnah%28Tangdhar%29.jpg"
+        }
+      ],
+      "body": "The script in which medieval Sanskrit was written for almost a thousand years across northern India is named after a temple. The Sharada script — which gave rise eventually to Gurmukhi, Takri, and Devanagari — takes its name from Sharada Peeth, a temple-university in a Himalayan valley at the confluence of three rivers.[^1] Kashmir, in classical Sanskrit usage, was *Sharada Desh*, \"the country of Sharada.\" For the Kashmiri Pandit community, the temple is one of three holiest sites; the other two are the Martand Sun Temple, now ruins, and the Amarnath cave shrine, still accessible. Sharada Peeth is the only one of the three that was, until 1947, both intact and central to a continuing intellectual tradition.\n\nThe site sits at 1,981 meters above sea level, in the Neelum Valley, beside a tributary of the Kishanganga river. By the fourth century CE it was a center of Buddhist scholarship — Kumarajiva, the Buddhist translator who carried Mahayana texts to China, was associated with it; so was the Tibetan scholar Thonmi Sambhota, traditionally credited with adapting the Sharada script for the Tibetan language.[^2] By the sixth century the temple had become a Hindu Maha Shakti Peetha: tradition holds that the right hand of Sati fell here. Between the sixth and twelfth centuries Sharada Peeth was, by most contemporary accounts, the most prominent temple-university in northern India. Scholars came to study Vedic philosophy, medicine, grammar, astronomy. Al-Biruni, the Persian polymath, named it in his eleventh-century survey of India among the subcontinent's most revered Hindu temples.[^3] The library — long since lost — was said to have been one of the largest in the medieval world.\n\nBy the late nineteenth century the temple was a pilgrimage site rather than a working university; its libraries had been destroyed centuries earlier by successive iconoclastic raids, and what remained was the structure itself, the spring beside it, and the annual visit of Kashmiri Pandit families who walked to it from Srinagar.\n\nThe 1947–48 war between India and Pakistan placed Sharada Peeth ten kilometers on the wrong side of what became the Line of Control. The Kashmiri Pandit community continued to live in the Kashmir Valley on the Indian side until 1990, when they were forced out in a separate displacement.[^4] Today most of the Kashmiri Pandit community lives in Jammu, Delhi, and the diaspora; their three holiest sites are, in order, in ruins, in a war zone, and on a different country's territory. To visit Sharada Peeth from the Indian side, a Kashmiri Pandit must apply for a Pakistani visa, travel via Karachi or Islamabad, and request permission to enter a tightly militarized region a few kilometers from a hostile border. These permits are almost never granted.\n\nWhat remains at the site itself is uncertain. Older photographs show the temple structure standing in partial ruin, walls intact, the spring still flowing. The 2005 Kashmir earthquake damaged the structures further. Some idols that had been housed at the temple were moved before 1947 to Tikker in Kupwara and Devibal in Baramulla, on the Indian side, where displaced Kashmiri Pandits perform substitute pilgrimages.[^5] There is, in other words, a shadow Sharada Peeth on the Indian side of the line, holding fragments of the original.\n\nThe proposal for a \"Sharada Corridor\" — a Kartarpur-style trans-LoC pilgrimage route — has been raised periodically since 2007 by the Save Sharada Committee, a Kashmiri Pandit advocacy group. Pakistani authorities reportedly approved a plan in 2019, around the time the Kartarpur Corridor opened. India then revoked Kashmir's special constitutional status under Article 370. The Sharada Corridor has not opened. It is unlikely to open soon. The Kashmiri Pandit community continues to age, and the number of people alive who remember pilgrimage to the actual temple — not the substitute idols, not the photographs, but the temple — continues to shrink.\n\nThe Kashmiri historian Kalhana wrote that one could not be fully educated in classical Sanskrit without visiting Sharada Peeth. He was writing in the twelfth century. He could not have imagined that within a few hundred years the script he wrote in would still be in use across the subcontinent, but the temple it was named after would be unreachable from the country whose script it had become.\n",
+      "pullQuote": "The script in which medieval Sanskrit was written for almost a thousand years across northern India is named after a temple that, since 1947, no Kashmiri Pandit has been permitted to visit.",
+      "wordCount": 600,
+      "sources": [
+        {
+          "id": 1,
+          "type": "wikipedia",
+          "title": "Sharada Peeth",
+          "publication": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sharada_Peeth",
+          "note": "Script and historical context."
+        },
+        {
+          "id": 2,
+          "type": "article",
+          "title": "Sharada Center Of Learning",
+          "publication": "Kashmir Images",
+          "date": "2022-12-19",
+          "url": "https://thekashmirimages.com/2022/12/19/sharada-center-of-learning/",
+          "note": "Buddhist scholar associations (Kumarajiva, Thonmi Sambhota)."
+        },
+        {
+          "id": 3,
+          "type": "primary",
+          "title": "Tarikh al-Hind",
+          "author": "Al-Biruni",
+          "date": "c. 1030 CE",
+          "note": "11th-century reference to Sharada Peeth as among the most revered Hindu temples of northern India."
+        },
+        {
+          "id": 4,
+          "type": "article",
+          "title": "Sharada Peeth: PoK's Abandoned Temple of 'Kashmir Puravasini'",
+          "publication": "The Quint",
+          "date": "2019-03",
+          "url": "https://www.thequint.com/explainers/explainer-sharada-peeth-shrine-pok-kashmiri-pandit-demand",
+          "note": "For Kashmiri Pandit advocacy context and 1990 displacement."
+        },
+        {
+          "id": 5,
+          "type": "article",
+          "title": "Reviving Sharda Peeth: Efforts rise to restore the lost heritage of Kashmir's sacred shrine",
+          "publication": "Organiser",
+          "date": "2026-01-11",
+          "url": "https://organiser.org/2026/01/11/334274/",
+          "note": "For Tikker/Devibal substitute pilgrimage and recent restoration efforts. Hindu-nationalist outlet; verify factual claims independently."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "krishna-mandir-lahore",
+      "name": "Krishna Mandir (Lahore)",
+      "altNames": [
+        "Krishna Temple, Ravi Road"
+      ],
+      "tradition": "Hindu (Vaishnava)",
+      "traditionGroup": "Hindu",
+      "country": "Pakistan",
+      "region": "Punjab",
+      "locality": "Ravi Road, Lahore",
+      "coordinates": {
+        "lat": 31.58,
+        "lng": 74.3
+      },
+      "accessStatus": "active",
+      "severanceDirection": "cutoff-india-to-pakistan",
+      "severanceDescription": "Idols removed during partition; reinstalled by Indian pilgrims in 2007.",
+      "popupSummary": "A small Krishna temple on Lahore's Ravi Road whose idols had been removed at partition. In February 2007, during a brief diplomatic thaw, a group of Indian pilgrims travelled to Lahore and reinstalled idols of Krishna, Radha, and Hanuman — the first such ceremony in the city since 1947.",
+      "flagship": false,
+      "sources": [
+        {
+          "id": 1,
+          "type": "article",
+          "title": "Forgotten Peace Dividend",
+          "publication": "MyPluralist",
+          "date": "2024-11-08",
+          "url": "https://mypluralist.com/2024/11/08/katas-raj-temples-2/"
+        }
+      ],
+      "heroImage": {
+        "src": "/images/sites/krishna-mandir-lahore.jpg",
+        "alt": "Krishna Mandir on Ravi Road, Lahore",
+        "caption": "The Krishna temple in Lahore whose idols were reinstalled in 2007 by Indian pilgrims.",
+        "credit": "Nawab Afridi / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Krishna%20Mandir%2C%20Lahore.jpg"
+      }
+    },
+    {
+      "id": 13,
+      "slug": "varun-dev-mandir",
+      "name": "Shri Varun Dev Mandir",
+      "altNames": [
+        "Manora Temple"
+      ],
+      "tradition": "Hindu",
+      "traditionGroup": "Hindu",
+      "country": "Pakistan",
+      "region": "Sindh",
+      "locality": "Manora Island, Karachi",
+      "coordinates": {
+        "lat": 24.795,
+        "lng": 66.98
+      },
+      "accessStatus": "inaccessible",
+      "severanceDirection": "cutoff-india-to-pakistan",
+      "severanceDescription": "Cut off from displaced Sindhi Hindus after 1947.",
+      "popupSummary": "A temple to Varuna, the Hindu god of waters, on the island of Manora in Karachi harbour. Before partition it served the Sindhi Hindu sailors and fishermen who worked the coast. Most of that community is now in India. The Pakistan Hindu Council partially restored the building in the mid-2010s; worship is sporadic at best.",
+      "flagship": false,
+      "sources": [
+        {
+          "id": 1,
+          "type": "article",
+          "title": "Hindu Temples in Pakistan: Lost Heritage and Current Status",
+          "publication": "HinduTone",
+          "date": "2025-09-03"
+        }
+      ],
+      "heroImage": {
+        "src": "/images/sites/varun-dev-mandir.jpg",
+        "alt": "Shri Varun Dev Mandir on Manora Island, Karachi harbour",
+        "caption": "The temple to Varuna on the Karachi coast, partially restored by the Pakistan Hindu Council.",
+        "credit": "Sam4u1w / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shri%20Varun%20Dev%20Mandir%20Manora%20Karachi.jpg"
+      }
+    },
+    {
+      "id": 14,
+      "slug": "dhakeshwari",
+      "name": "Dhakeshwari National Temple",
+      "altNames": [
+        "Dhakeshwari Mondir"
+      ],
+      "tradition": "Hindu (Shakti)",
+      "traditionGroup": "Hindu",
+      "country": "Bangladesh",
+      "region": "Dhaka Division",
+      "locality": "Old Dhaka",
+      "coordinates": {
+        "lat": 23.7194,
+        "lng": 90.3878
+      },
+      "accessStatus": "active",
+      "severanceDirection": "cutoff-india-to-bangladesh",
+      "severanceDescription": "Significant land lost under the Enemy/Vested Property Act from 1947 onwards; over half the buildings destroyed by the Pakistan Army in 1971.",
+      "popupSummary": "Bangladesh's National Temple, founded in the 12th century by the Sena king Ballal Sen — the city of Dhaka may take its name from this goddess. In 1971 the Pakistani Army stored ammunition in its worship hall and destroyed over half its buildings. It was attacked again in the early 1990s, by mobs angered over the Babri Masjid demolition in another country.",
+      "flagship": false,
+      "sources": [
+        {
+          "id": 1,
+          "type": "wikipedia",
+          "title": "Dhakeshwari Temple",
+          "publication": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dhakeshwari_Temple"
+        }
+      ],
+      "heroImage": {
+        "src": "/images/sites/dhakeshwari.jpg",
+        "alt": "Dhakeshwari National Temple, Dhaka",
+        "caption": "Bangladesh's National Temple in Old Dhaka.",
+        "credit": "Ragib Hasan / Wikimedia Commons",
+        "license": "CC BY 2.5",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shiva%20temples%20Dhakeshwari%20Mandir%202%20by%20Ragib%20Hasan.jpg"
+      }
+    },
+    {
+      "id": 15,
+      "slug": "ramna-kali",
+      "name": "Ramna Kali Mandir",
+      "altNames": [
+        "Ramna Kalibari"
+      ],
+      "tradition": "Hindu (Shakta)",
+      "traditionGroup": "Hindu",
+      "country": "Bangladesh",
+      "region": "Dhaka Division",
+      "locality": "Ramna, Dhaka",
+      "coordinates": {
+        "lat": 23.737,
+        "lng": 90.4035
+      },
+      "accessStatus": "reconstructed",
+      "severanceDirection": "destroyed",
+      "severanceDescription": "Destroyed by the Pakistani Army on March 27, 1971; ~100-250 worshippers killed (Ramna Massacre); reconstructed in 2021.",
+      "popupSummary": "An old Kali temple in Dhaka, founded centuries earlier by Nepali devotees. On the night of March 27, 1971 — the second day of Operation Searchlight — the Pakistani Army demolished the temple and killed approximately 100 to 250 Hindus in the surrounding settlement. The site was rebuilt in 2021.",
+      "flagship": false,
+      "sources": [
+        {
+          "id": 1,
+          "type": "wikipedia",
+          "title": "Ramna Kali Mandir",
+          "publication": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ramna_Kali_Mandir"
+        },
+        {
+          "id": 2,
+          "type": "wikipedia",
+          "title": "Ramna massacre",
+          "publication": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ramna_massacre"
+        }
+      ],
+      "heroImage": {
+        "src": "/images/sites/ramna-kali.jpg",
+        "alt": "Ramna Kali Mandir in Dhaka, reconstructed",
+        "caption": "The Ramna Kali Mandir, rebuilt in 2021 after its 1971 destruction.",
+        "credit": "Rifat J. Eusufzai / Wikimedia Commons",
+        "license": "GFDL",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramna%20Kali%20Mondir%20Gate.jpg"
+      }
+    },
+    {
+      "id": 16,
+      "slug": "ajmer-sharif",
+      "name": "Ajmer Sharif Dargah",
+      "altNames": [
+        "Dargah of Khwaja Moinuddin Chishti",
+        "Dargah Sharif",
+        "Gharib Nawaz"
+      ],
+      "tradition": "Sufi (Chishti)",
+      "traditionGroup": "Sufi",
+      "country": "India",
+      "region": "Rajasthan",
+      "locality": "Ajmer",
+      "coordinates": {
+        "lat": 26.4555,
+        "lng": 74.6275
+      },
+      "accessStatus": "restricted",
+      "severanceDirection": "cutoff-pakistan-to-india",
+      "severanceDescription": "Cut off from Pakistani Muslim pilgrims; visa denials for Urs pilgrimages have escalated since 2018-19. Also subject to a November 2024 Hindu Sena legal petition claiming the dargah was built on a Shiva temple.",
+      "popupSummary": "The most visited Sufi shrine in South Asia; the 'mother dargah' from which the entire Chishti order across the subcontinent descends. After 1947, Pakistani Muslim pilgrims continued to attend the annual Urs under a 1974 protocol — until visa refusals began in 2018-19 and routinized. In November 2024 a Hindu Sena petition claimed the dargah was built on a Shiva temple; the case is currently before an Ajmer civil court.",
+      "flagship": true,
+      "heroImage": {
+        "src": "/images/flagships/ajmer-hero.jpg",
+        "alt": "The Ajmer Sharif Dargah at dusk, lit by lamps",
+        "credit": "Zuck28 / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "caption": "The Ajmer Sharif Dargah, completed c. 1236 and enlarged under Mughal patronage.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Night%20View%20of%20Ajmer%20Sharif%20Dargah.jpg"
+      },
+      "gallery": [
+        {
+          "src": "/images/flagships/ajmer-urs.jpg",
+          "alt": "Pilgrims at the annual Urs festival in Ajmer",
+          "credit": "कृष्ण कान्त शर्मा / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "caption": "The annual Urs draws several million pilgrims across six days.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Urs%20festival%2C%20Ajmer.jpg"
+        },
+        {
+          "src": "/images/flagships/ajmer-qawwali.jpg",
+          "alt": "Qawwali performance at the dargah",
+          "credit": "Saswat swarup mishra / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "caption": "The qawwali tradition at Ajmer traces to Amir Khusrau, Chishti's 14th-century disciple.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qawalli%20at%20Ajmer%20Sharif%20dargah.jpg"
+        },
+        {
+          "src": "/images/flagships/ajmer-chadar.jpg",
+          "alt": "A ceremonial chadar being offered at the tomb",
+          "credit": "Donvikro / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "caption": "A chadar offering at the tomb — a daily ritual at the shrine.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flower%20Vendor%20outside%20Chisti%20Dargah%2C%20Ajmer.jpg"
+        }
+      ],
+      "body": "Khwaja Moinuddin Chishti arrived in Ajmer in the late twelfth century, having traveled from Sistan in present-day Iran via Lahore, where he stopped briefly. He was already in his fifties. He spent the rest of his life in Ajmer — preaching what came to be called the Chishti doctrine of *sulh-i-kul*, \"peace to all\" — and died there in 1230, at the age of nearly eighty.[^1] The tomb built over his grave became, within a few centuries, the most visited Sufi shrine in South Asia. Chishti was given the title *Gharib Nawaz*, \"benefactor of the poor.\" The Mughal emperors — Akbar, Jahangir, Shah Jahan — made pilgrimages to Ajmer. Akbar walked the last several miles on foot.[^2] The shrine they enlarged and adorned is the structure that stands today.\n\nWhat makes Ajmer different from almost every other site in this project is its everyday population. The shrine receives, on a normal Thursday night, tens of thousands of pilgrims — Hindu, Muslim, Sikh, occasional Christian, often more Hindu than Muslim. The annual Urs, the festival commemorating Chishti's death, draws several million people across six days. The Indian Railways runs special trains, the *Garib Nawaz* services, to handle the traffic. The shrine has its own form of Sufi music — the *qawwali* tradition cultivated by Chishti's disciple Amir Khusrau in the fourteenth century, which is still performed at the dargah every evening.\n\nFor 800 years, pilgrims came to Ajmer from across what became the modern subcontinent. After 1947 they came from across two countries; after 1971, three. For Pakistani Muslims in particular, Ajmer Sharif was not a foreign site — it was, in the Chishti theological lineage, the *mother dargah* from which the entire Chishti order in South Asia descends. Sufi shrines across what is now Pakistan trace their spiritual genealogy back to Ajmer. After partition, Pakistani Muslims continued to apply for Indian visas to attend the annual Urs. The Pakistan High Commission in Delhi traditionally led an official delegation each year, carrying a *chadar* — a ceremonial cloth — to drape on the tomb on behalf of the Pakistani government.\n\nThis is the access that has been quietly closing. In 2019, India refused visas to a delegation of 500 Pakistani pilgrims, citing security concerns; the Pakistani Ministry of Religious Affairs confirmed it was the second consecutive year of refusal.[^3] In subsequent years, smaller delegations have made it through — 230 in 2024, 125 in 2025 — but the numbers are a fraction of what they were a decade ago, and the visa refusals have become routine. The diplomatic position is that India and Pakistan have a formal 1974 protocol governing religious pilgrimages; the practical position is that the protocol has been honored partially and inconsistently for several years. The Pakistani government continues to issue several thousand visas annually to Indian Sikhs traveling to gurdwaras in Pakistan. The Indian government issues a few hundred to Pakistani pilgrims traveling to Ajmer.\n\nIn November 2024, a different kind of severance began at Ajmer. A petition was filed in an Ajmer civil court by the Hindu Sena, an organization affiliated with the broader Hindu nationalist movement, claiming that the dargah had been built on the ruins of an ancient Shiva temple — *Sankat Mochan Mahadev Virajman* — and demanding an Archaeological Survey of India investigation.[^4] The court accepted the petition for hearing and issued notices to the Ministry of Minority Affairs, the Dargah Committee, and the ASI. The petition cites alleged Hindu architectural elements — claimed swastika and Om symbols on the windows — and references a 1911 book by a retired colonial-era judge, Harvilas Sharda. The case is one of several active petitions targeting Indian Muslim religious sites under similar logic; the Gyanvapi Mosque in Varanasi and the Shahi Eidgah in Mathura face comparable proceedings.[^5]\n\nWhat this means is that Ajmer is now subject to severance in two directions at once. The pilgrim from Karachi who once traveled to Ajmer for the Urs cannot get the visa. The shrine itself, eight centuries old, is now legally questioned in the country that hosts it. Khwaja Moinuddin Chishti's biographer wrote that he refused to enter Ajmer on horseback because he had been told the city had been the site of past injustice. He chose to walk in barefoot. That is the kind of detail his shrine has, for eight hundred years, carried forward. The petition filed in 2024 would, if successful, refuse to carry it forward.\n",
+      "pullQuote": "Ajmer is now subject to severance in two directions at once: the pilgrim from Karachi who once traveled here for the Urs cannot get the visa; the shrine itself, eight centuries old, is now legally questioned in the country that hosts it.",
+      "wordCount": 610,
+      "sources": [
+        {
+          "id": 1,
+          "type": "wikipedia",
+          "title": "Shrine of Mu'in al-Din Chishti",
+          "publication": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shrine_of_Mu'in_al-Din_Chishti",
+          "note": "Biographical and architectural overview."
+        },
+        {
+          "id": 2,
+          "type": "primary",
+          "title": "Akbarnama",
+          "author": "Abu'l-Fazl ibn Mubarak",
+          "date": "c. 1590",
+          "note": "For Mughal pilgrimage tradition. Verify specific Akbar barefoot account against text before publication."
+        },
+        {
+          "id": 3,
+          "type": "article",
+          "title": "India refuses visas to Pakistani pilgrims for visiting Moinuddin Chishti's shrine in Ajmer: Pakistan minister",
+          "publication": "Gulf News",
+          "date": "2019",
+          "url": "https://gulfnews.com/world/asia/pakistan/india-refuses-visas-to-pakistani-pilgrims-for-visiting-moinuddin-chishtis-shrine-in-ajmer-pakistan-minister-1.1551714475561",
+          "note": "Documented visa refusals."
+        },
+        {
+          "id": 4,
+          "type": "article",
+          "title": "Court Issues Notice Over Claims of Hindu Temple at Ajmer Dargah Site",
+          "publication": "Law Trend",
+          "date": "2024-11-28",
+          "url": "https://lawtrend.in/court-issues-notice-over-claims-of-hindu-temple-at-ajmer-dargah-site/",
+          "note": "November 2024 Hindu Sena petition; court notice details."
+        },
+        {
+          "id": 5,
+          "type": "article",
+          "title": "On Babri demolition day, a look at Indian mosques under ASI scanner for 'temple presence'",
+          "publication": "Deccan Herald",
+          "date": "2024-12-06",
+          "note": "Context for the broader pattern of petitions against Muslim religious sites in India."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "slug": "nizamuddin",
+      "name": "Nizamuddin Auliya Dargah",
+      "altNames": [
+        "Hazrat Nizamuddin"
+      ],
+      "tradition": "Sufi (Chishti)",
+      "traditionGroup": "Sufi",
+      "country": "India",
+      "region": "Delhi",
+      "locality": "Nizamuddin West, New Delhi",
+      "coordinates": {
+        "lat": 28.5917,
+        "lng": 77.241
+      },
+      "accessStatus": "restricted",
+      "severanceDirection": "cutoff-pakistan-to-india",
+      "severanceDescription": "Pakistani Muslim pilgrim access reduced via visa restrictions.",
+      "popupSummary": "Shrine of the 14th-century Sufi master Nizamuddin Auliya, in the middle of Delhi. His disciple Amir Khusrau — poet, musician, inventor of qawwali — is buried alongside him. The annual Urs still draws international pilgrims, but the Pakistani delegation is shrinking: a recent year saw only 190 of 400 visa requests approved.",
+      "flagship": false,
+      "sources": [
+        {
+          "id": 1,
+          "type": "article",
+          "title": "Gulf News visa refusal article",
+          "publication": "Gulf News",
+          "date": "2019"
+        }
+      ],
+      "heroImage": {
+        "src": "/images/sites/nizamuddin.jpg",
+        "alt": "Nizamuddin Auliya Dargah in Delhi, evening qawwali setting",
+        "caption": "The shrine of Nizamuddin Auliya in central Delhi.",
+        "credit": "Indrajit Das / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hazrat%20Nizamuddin%20Dargah%20in%20Delhi%2004.jpg"
+      }
+    },
+    {
+      "id": 18,
+      "slug": "baba-farid",
+      "name": "Baba Farid Dargah",
+      "tradition": "Sufi (Chishti)",
+      "traditionGroup": "Sufi",
+      "country": "Pakistan",
+      "region": "Punjab",
+      "locality": "Pakpattan",
+      "coordinates": {
+        "lat": 30.35,
+        "lng": 73.3833
+      },
+      "accessStatus": "restricted",
+      "severanceDirection": "bidirectional",
+      "severanceDescription": "Main shrine in Pakpattan (PK) inaccessible to most Indian devotees; secondary Indian sites restricted from Pakistani pilgrims.",
+      "popupSummary": "Shrine of Baba Farid, the 13th-century Chishti saint who wrote some of the earliest Punjabi poetry — 134 of his hymns are still sung from the Sikh Guru Granth Sahib. His main shrine is in Pakpattan, on the Pakistani side; smaller associated sites are on the Indian side. Across both, the cross-border devotional traffic that once defined his cult has thinned to almost nothing.",
+      "flagship": false,
+      "sources": [
+        {
+          "id": 1,
+          "type": "other",
+          "title": "Sufi Corridor (Conceptual Sites)",
+          "publication": "Spiritual Foundation",
+          "url": "https://spiritualfoundation.org.in/2025/03/06/sufi-corridor/"
+        }
+      ],
+      "heroImage": {
+        "src": "/images/sites/baba-farid.jpg",
+        "alt": "Shrine of Baba Farid at Pakpattan, Pakistan",
+        "caption": "The dargah at Pakpattan, on the Pakistani side of the border.",
+        "credit": "Rangbaz / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pakpattan%20shrine.jpg"
+      }
+    },
+    {
+      "id": 19,
+      "slug": "data-darbar",
+      "name": "Data Darbar",
+      "altNames": [
+        "Shrine of Ali Hujwiri",
+        "Data Ganj Bakhsh"
+      ],
+      "tradition": "Sufi",
+      "traditionGroup": "Sufi",
+      "country": "Pakistan",
+      "region": "Punjab",
+      "locality": "Lahore",
+      "coordinates": {
+        "lat": 31.578,
+        "lng": 74.307
+      },
+      "accessStatus": "restricted",
+      "severanceDirection": "cutoff-india-to-pakistan",
+      "severanceDescription": "Cut off from Indian Muslim pilgrims; Indian visa rarely granted.",
+      "popupSummary": "Shrine of Ali Hujwiri — Data Ganj Bakhsh, 'the master who gives generously' — an 11th-century Persian Sufi whose tomb in Lahore became one of the largest pilgrimage centres in South Asia. Indian Muslims travelled here regularly before 1947. They almost never do anymore.",
+      "flagship": false,
+      "sources": [
+        {
+          "id": 1,
+          "type": "other",
+          "title": "Sufi Corridor",
+          "publication": "Spiritual Foundation"
+        }
+      ],
+      "heroImage": {
+        "src": "/images/sites/data-darbar.jpg",
+        "alt": "Data Darbar shrine complex in Lahore",
+        "caption": "Data Darbar, the shrine of Ali Hujwiri in Lahore.",
+        "credit": "King Eliot / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Data%20Darbar%202.jpg"
+      }
+    },
+    {
+      "id": 20,
+      "slug": "lal-shahbaz",
+      "name": "Shrine of Lal Shahbaz Qalandar",
+      "altNames": [
+        "Sehwan Sharif"
+      ],
+      "tradition": "Sufi (Qalandariya / Suhrawardi)",
+      "traditionGroup": "Sufi",
+      "country": "Pakistan",
+      "region": "Sindh",
+      "locality": "Sehwan",
+      "coordinates": {
+        "lat": 26.4267,
+        "lng": 67.8625
+      },
+      "accessStatus": "restricted",
+      "severanceDirection": "cutoff-india-to-pakistan",
+      "severanceDescription": "Cut off from Sindhi Hindu devotees displaced from Sindh in 1947.",
+      "popupSummary": "Shrine of Lal Shahbaz Qalandar, the 13th-century Sufi who gave Sindh one of its central devotional traditions. Sindhi Hindus venerated him as their own — the kind of cross-religious devotion that once felt unremarkable in Sindh. Most of those Sindhi Hindus left at partition. The shrine remains. The thread between it and them does not.",
+      "flagship": false,
+      "sources": [
+        {
+          "id": 1,
+          "type": "wikipedia",
+          "title": "Lal Shahbaz Qalandar",
+          "publication": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lal_Shahbaz_Qalandar"
+        }
+      ],
+      "heroImage": {
+        "src": "/images/sites/lal-shahbaz.jpg",
+        "alt": "Shrine of Lal Shahbaz Qalandar at Sehwan, Sindh",
+        "caption": "The Sufi shrine at Sehwan Sharif, central to Sindhi devotion.",
+        "credit": "Saqib Qayyum / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lal%20Shahbaz%20Mazaar%20inside%20view%205.JPG"
+      }
+    },
+    {
+      "id": 21,
+      "slug": "bulleh-shah",
+      "name": "Shrine of Bulleh Shah",
+      "altNames": [
+        "Kasur Sufi shrine"
+      ],
+      "tradition": "Sufi",
+      "traditionGroup": "Sufi",
+      "country": "Pakistan",
+      "region": "Punjab",
+      "locality": "Kasur",
+      "coordinates": {
+        "lat": 31.1167,
+        "lng": 74.45
+      },
+      "accessStatus": "restricted",
+      "severanceDirection": "cutoff-india-to-pakistan",
+      "severanceDescription": "Cut off from Indian Punjabi devotees of the shared Sufi-Punjabi tradition.",
+      "popupSummary": "Shrine of Bulleh Shah, the 18th-century Punjabi Sufi whose verses are still sung on both sides of the border — by Sikhs, by Hindus, by Muslims, by Coke Studio. The verses cross. The shrine doesn't: most Indian Punjabis can't visit the place where the poet lies buried.",
+      "flagship": false,
+      "sources": [
+        {
+          "id": 1,
+          "type": "other",
+          "title": "Sufi Corridor",
+          "publication": "Spiritual Foundation"
+        }
+      ],
+      "heroImage": {
+        "src": "/images/sites/bulleh-shah.jpg",
+        "alt": "Shrine of Bulleh Shah at Kasur, Pakistan",
+        "caption": "The shrine of the eighteenth-century Punjabi Sufi poet.",
+        "credit": "Muhammad Imran Khan / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baba%20Bulleh%20Shah%20Tomb%2C%20Kasur%2C%20Pakistan.jpg"
+      }
+    },
+    {
+      "id": 22,
+      "slug": "golden-temple",
+      "name": "Sri Harmandir Sahib",
+      "altNames": [
+        "Golden Temple",
+        "Darbar Sahib"
+      ],
+      "tradition": "Sikh",
+      "traditionGroup": "Sikh",
+      "country": "India",
+      "region": "Punjab",
+      "locality": "Amritsar",
+      "coordinates": {
+        "lat": 31.62,
+        "lng": 74.8765
+      },
+      "accessStatus": "restricted",
+      "severanceDirection": "cutoff-pakistan-to-india",
+      "severanceDescription": "Cut off from Pakistani Sikhs (~20,000 strong community) requiring Indian visas.",
+      "popupSummary": "Sikhism's holiest site, in the middle of Amritsar. Indian Sikhs come and go freely. The 20,000 or so Sikhs still living in Pakistan need Indian visas — issued in small numbers, refused often. Listed here so the map remembers that severance ran in both directions.",
+      "flagship": false,
+      "sources": [
+        {
+          "id": 1,
+          "type": "wikipedia",
+          "title": "Golden Temple",
+          "publication": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Golden_Temple"
+        }
+      ],
+      "heroImage": {
+        "src": "/images/sites/golden-temple.jpg",
+        "alt": "Sri Harmandir Sahib (Golden Temple) in Amritsar",
+        "caption": "The Golden Temple in Amritsar — Sikhism's holiest site, but visa-gated for Pakistani Sikhs.",
+        "credit": "Dey.sandip / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harmandir%20Sahib%2C%20Amritsar%2C%20India.jpg"
+      }
+    },
+    {
+      "id": 23,
+      "slug": "kalighat",
+      "name": "Kalighat Temple",
+      "tradition": "Hindu (Shakti)",
+      "traditionGroup": "Hindu",
+      "country": "India",
+      "region": "West Bengal",
+      "locality": "Kolkata",
+      "coordinates": {
+        "lat": 22.5197,
+        "lng": 88.3414
+      },
+      "accessStatus": "restricted",
+      "severanceDirection": "cutoff-india-to-bangladesh",
+      "severanceDescription": "Restricted for Bangladeshi pilgrims; visa required.",
+      "popupSummary": "A Shakti Peetha in Kolkata — tradition holds that Sati's toes fell here. For centuries it drew Bengali Hindu pilgrims from across the whole region. After Bengal was partitioned in 1947 and again in 1971, the East Bengali Hindus who once made the journey routinely found themselves needing visas to reach a temple that was once a short train ride away.",
+      "flagship": false,
+      "sources": [],
+      "heroImage": {
+        "src": "/images/sites/kalighat.jpg",
+        "alt": "Kalighat Temple in Kolkata, West Bengal",
+        "caption": "The Kalighat Shakti Peetha in Kolkata.",
+        "credit": "Bernard Gagnon / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kalighat%20Kali%20Temple.jpg"
+      }
+    },
+    {
+      "id": 24,
+      "slug": "multan-sun-temple",
+      "name": "Multan Sun Temple (site)",
+      "altNames": [
+        "Prahladpuri Temple area"
+      ],
+      "tradition": "Hindu (Surya)",
+      "traditionGroup": "Hindu",
+      "country": "Pakistan",
+      "region": "Punjab",
+      "locality": "Multan",
+      "coordinates": {
+        "lat": 30.198,
+        "lng": 71.475
+      },
+      "accessStatus": "inaccessible",
+      "severanceDirection": "cutoff-india-to-pakistan",
+      "severanceDescription": "Ancient Hindu site destroyed centuries before partition; Multan's remaining Hindu community displaced in 1947.",
+      "popupSummary": "The Sun Temple of Multan was destroyed centuries before partition, in medieval iconoclasms. But Multan's Hindu community survived the destruction of its central shrine, persisted through Mughal and British rule, and was still in place in 1947. Partition completed the work the iconoclasts had started. Included here as memory.",
+      "flagship": false,
+      "sources": [],
+      "heroImage": {
+        "src": "/images/sites/multan-sun-temple.jpg",
+        "alt": "The site of the Multan Sun Temple, now occupied by later structures",
+        "caption": "The location of the ancient Multan Sun Temple — included here as memory.",
+        "credit": "Mubashirtaqi147 / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prahladpuri%20Temple%20View.jpg"
+      }
+    },
+    {
+      "id": 25,
+      "slug": "bebe-nanaki-gurdwara",
+      "name": "Gurdwara Bebe Nanaki (Dera Chahal)",
+      "tradition": "Sikh",
+      "traditionGroup": "Sikh",
+      "country": "Pakistan",
+      "region": "Punjab",
+      "locality": "Dera Chahal village",
+      "coordinates": {
+        "lat": 31.4,
+        "lng": 74.55
+      },
+      "accessStatus": "reopened",
+      "severanceDirection": "cutoff-india-to-pakistan",
+      "severanceDescription": "Cut off from Indian Sikhs 1947 onwards; designated for reopening in 2018-19.",
+      "popupSummary": "A gurdwara to Bebe Nanaki — Guru Nanak's elder sister, his first follower, the woman who recognized him before the world did. Designated for reopening in 2018-19 in the same diplomatic gesture that produced the Kartarpur Corridor and the reopening of Choa Sahib.",
+      "flagship": false,
+      "sources": [],
+      "heroImage": {
+        "src": "/images/sites/bebe-nanaki-gurdwara.jpg",
+        "alt": "Gurdwara Janamasthan Bebe Nanaki at Dera Chahal — the birthplace of Bebe Nanaki, the elder sister of Guru Nanak, about 35 km from Lahore. The building has functioned as a girls' school since partition; the gurdwara structure was renovated in 1996 under Prime Minister Meraj Khalid, who himself was born in this village.",
+        "credit": "Photo by Shahid Shabbir / Khalsa Raj Footsteps in Pakistan",
+        "license": "Used with permission",
+        "sourceUrl": "https://www.facebook.com/Khalsarajfootstepsinpakistan/"
+      }
+    },
+    {
+      "id": 26,
+      "slug": "bibi-pak-daman",
+      "name": "Bibi Pak Daman",
+      "tradition": "Sufi (Shia)",
+      "traditionGroup": "Sufi",
+      "country": "Pakistan",
+      "region": "Punjab",
+      "locality": "Lahore",
+      "coordinates": {
+        "lat": 31.5497,
+        "lng": 74.3275
+      },
+      "accessStatus": "restricted",
+      "severanceDirection": "cutoff-india-to-pakistan",
+      "severanceDescription": "Cut off from Indian Shia and Sufi pilgrims.",
+      "popupSummary": "A Lahore shrine to female saints traditionally said to descend from the family of Hazrat Ali. Significant for both Shia and Sunni devotion. Before 1947 it was tied closely to the Shia centre of Lucknow — pilgrims, scholars, and devotional traffic moved between the two cities. That tie didn't survive the border.",
+      "flagship": false,
+      "sources": [],
+      "heroImage": {
+        "src": "/images/sites/bibi-pak-daman.jpg",
+        "alt": "Bibi Pak Daman shrine in Lahore",
+        "caption": "The shrine to the female saints traditionally said to descend from the family of Hazrat Ali.",
+        "credit": "Bahoo Sarwar / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bazar%20e%20Bibi%20Pak%20Daman.JPG"
+      }
+    },
+    {
+      "id": 27,
+      "slug": "nagarparkar-jain",
+      "name": "Nagarparkar Jain Temples",
+      "altNames": [
+        "Karoonjhar temple complex"
+      ],
+      "tradition": "Jain (Śvetāmbara)",
+      "traditionGroup": "Jain",
+      "country": "Pakistan",
+      "region": "Sindh",
+      "locality": "Nagarparkar, Tharparkar District",
+      "coordinates": {
+        "lat": 24.3558,
+        "lng": 70.7544
+      },
+      "accessStatus": "inaccessible",
+      "severanceDirection": "cutoff-india-to-pakistan",
+      "severanceDescription": "Local Jain community migrated largely to India after 1947; ~14 temples abandoned.",
+      "popupSummary": "Roughly fourteen Jain temples built between the 12th and 15th centuries, abandoned in the Karoonjhar mountains of Sindh's far southeast. Nagarparkar was once a Jain pilgrimage centre called Sardhara, 'the most glorious of all regions of India.' The Gori Temple of 1375 still holds the oldest surviving Jain frescoes in the northern subcontinent. The community that maintained them left in 1947.",
+      "flagship": false,
+      "sources": [
+        {
+          "id": 1,
+          "type": "wikipedia",
+          "title": "Nagarparkar Jain Temples",
+          "publication": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nagarparkar_Jain_temples"
+        },
+        {
+          "id": 2,
+          "type": "article",
+          "title": "Secrets of Thar: A Jain temple, a mosque and a 'magical' well",
+          "publication": "Dawn",
+          "date": "2016-07-30",
+          "url": "https://www.dawn.com/news/1238823"
+        }
+      ],
+      "heroImage": {
+        "src": "/images/sites/nagarparkar-jain.jpg",
+        "alt": "Abandoned Jain temples in the Karoonjhar mountains near Nagarparkar, Sindh",
+        "caption": "The Jain temple complex at Nagarparkar, abandoned after partition.",
+        "credit": "Saqib Qayyum / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jain%20temple%2C%20Nagarparkar.JPG"
+      }
+    },
+    {
+      "id": 28,
+      "slug": "taxila",
+      "name": "Taxila (Buddhist ruins)",
+      "altNames": [
+        "Takshashila"
+      ],
+      "tradition": "Buddhist",
+      "traditionGroup": "Buddhist",
+      "country": "Pakistan",
+      "region": "Punjab",
+      "locality": "Taxila, Rawalpindi District",
+      "coordinates": {
+        "lat": 33.746,
+        "lng": 72.7873
+      },
+      "accessStatus": "restricted",
+      "severanceDirection": "cutoff-india-to-pakistan",
+      "severanceDescription": "Cut off from Indian Buddhist community and South Asian Buddhist pilgrim circuits.",
+      "popupSummary": "An ancient Buddhist learning centre half an hour outside Islamabad — UNESCO heritage, capital of Gandharan civilization, holder of confirmed relics of the Buddha. Sri Lankan and Western Buddhist pilgrims now come regularly. India's millions of post-Ambedkar Buddhists almost never do.",
+      "flagship": false,
+      "sources": [
+        {
+          "id": 1,
+          "type": "official",
+          "title": "Taxila (UNESCO site 139)",
+          "publication": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/139/"
+        },
+        {
+          "id": 2,
+          "type": "article",
+          "title": "Rare Buddha relics add to Taxila Museum's appeal",
+          "publication": "Dawn",
+          "date": "2026-01-11",
+          "url": "https://www.dawn.com/news/amp/1966315"
+        }
+      ],
+      "heroImage": {
+        "src": "/images/sites/taxila.jpg",
+        "alt": "Buddhist stupa ruins at Taxila, Pakistan",
+        "caption": "The Dharmarajika Stupa at Taxila — UNESCO World Heritage Site.",
+        "credit": "Mhtoori / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dharmarajika%20stupa%20%26%20Monastery%20Taxila.jpg"
+      }
+    }
+  ]
+}
