@@ -27,7 +27,7 @@ export default function HomePage() {
 
         <div className="mt-10 max-w-[640px] font-serif text-[19px] leading-[1.7] text-ink">
           <p className="mb-5">
-            The Partition of British India in 1947 is most often told as a story of people who moved: refugees, deaths, migrations. <em>Severed</em> tells it differently. Made in collaboration with Pakistani, American, and Indian authors, it is a map of sacred sites that did not move—sites whose worshippers were left on the wrong side of the new borders.
+            The Partition of British India in 1947 is most often told as a story of people who moved: refugees, deaths, migrations. <em>Severed</em> tells it differently. With photograph permissions from Pakistani and Sikh-American documentarians of these sites, it is a map of sacred sites that did not move—sites whose worshippers were left on the wrong side of the new borders.
           </p>
           <p className="mb-5">
             <strong className="font-medium text-accent">Twenty-eight places. Five religious traditions. Three modern nations.</strong> One drawn line, with consequences that have lasted seventy-eight years.

@@ -1,5 +1,6 @@
 import TopBar from '@/components/TopBar';
 import Footer from '@/components/Footer';
+import ContactBlock from '@/components/ContactBlock';
 import data from '@/data/severed-data.json';
 import type { SeveredData } from '@/types/severed-types';
 
@@ -22,7 +23,7 @@ export default function MethodologyPage() {
         </h1>
 
         <p className="mb-12 font-serif text-[19px] italic leading-[1.6] text-ink-soft">
-          Severed is a deliberately limited project, made under deliberately stated constraints.
+          Severed is a deliberately limited project, made under stated constraints.
           This page explains those constraints, the criteria by which sites were included or
           excluded, the sources relied on, the author's own position relative to the material,
           and the gaps that remain.
@@ -33,7 +34,7 @@ export default function MethodologyPage() {
           <p className="m-0 font-serif text-[16px] leading-[1.6] text-ink-soft">
             Twenty-eight sites, included if they met four criteria and excluded if any of three
             rules applied. Sourced from at least two independent references each, prioritizing
-            academic and primary sources where available. The author is a high school student
+            academic and primary sources where available. I am a high school student
             writing from outside the wound. Errors are flagged where known and remain mine.
             Corrections welcome.
           </p>
@@ -135,7 +136,7 @@ export default function MethodologyPage() {
             Of the twenty-eight sites currently on the map, twenty represent severance from the
             Indian side to the Pakistani side. This reflects the empirical reality that most
             religious-site abandonment after 1947 happened to Hindu, Sikh, and Jain communities
-            leaving West Pakistan. But it also reflects gaps in the author's own access to
+            leaving West Pakistan. But it also reflects gaps in my own access to
             sources: severed Muslim sites in India and severed Hindu sites in Bangladesh are
             represented but undercounted relative to their lived significance. Future versions
             of this project will expand both.
@@ -145,22 +146,17 @@ export default function MethodologyPage() {
             Linguistic limits
           </h3>
           <P>
-            The author does not read Urdu, Punjabi, Sindhi, Pashto, or Bengali. The project relies
+            I don't read Urdu, Punjabi, Sindhi, Pashto, or Bengali. The project relies
             on English-language scholarship and translated primary sources throughout. There is
             significant material in regional languages—particularly the histories maintained by
-            individual communities about their own lost sites—that this project has not reached.
+            individual communities about their own lost sites—that this project has not yet reached.
           </P>
 
           <h3 className="mb-3 mt-7 text-[14px] font-medium uppercase tracking-wider text-accent">
             Image limits
           </h3>
           <P>
-            Three sites currently lack images: the smaller gurdwaras at Ratan Talao (Karachi),
-            Pakhoke (Narowal), and Bebe Nanaki (Dera Chahal). Photographic documentation of
-            remote and lightly trafficked sites is uneven, and Wikimedia Commons—the
-            project's free-license image source—does not yet cover them. All thirty-seven
-            images currently displayed are sourced from Wikimedia Commons under free licenses
-            (CC BY, CC BY-SA, Public Domain, GFDL) and credited on the relevant page.
+          All forty image slots are filled. Three are used with permission of the photographers (Farooq Soomro / The Karachi Walla, Dr. Tarunjit Singh Butalia / Jeevay Sanjha Punjab, and Shahid Shabbir) outside Wikimedia's free-license system; the rest are from Wikimedia Commons under free licenses.
           </P>
 
           <h3 className="mb-3 mt-7 text-[14px] font-medium uppercase tracking-wider text-accent">
@@ -176,25 +172,21 @@ export default function MethodologyPage() {
 
         <Section title="What you can do">
           <P>
-            I would love to hear from you. If you have corrections, comments, or would just like to chat, please write to me!
+            I would love to hear from you. If you have corrections, comments, or would just like to connect, please write to me!
           </P>
-          <div className="mt-12 border-t-2 border-accent bg-paper py-7">
-            <div className="eyebrow mb-2">Contact</div>
-            <div className="font-serif text-[22px] text-accent">maayusharma@gmail.com</div>
-
-          </div>
+          <ContactBlock />
         </Section>
 
         <Section title="Acknowledgments">
           <P>
-            This project is hosted by Thoughtful India. Thank you very much to Tarunjit Singh Butalia, Farooq Soomro, and Shahid Shabbir for their help with the project. {' '}
+            This project is hosted by Thoughtful India. Thank you very much to Tarunjit Singh Butalia, Farooq Soomro, and Shahid Shabbir for their support and help with image sourcing for the project. Thank you to my English teacher Mr. Rossi for the Inquiry assignment that inspired this project. {' '}
 
           </P>
         </Section>
 
         <div className="mt-14 flex flex-wrap items-center justify-between gap-3 border-t border-rule pt-5 text-[12px] text-ink-faint">
           <span>Version 1.0.0</span>
-          <span>Last updated: June 11, 2026</span>
+          <span>Last updated: June 12, 2026</span>
           <span>{typed.meta.sitesCount} sites · {typed.meta.flagshipsCount} flagships</span>
         </div>
       </article>

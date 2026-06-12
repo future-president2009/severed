@@ -1,5 +1,6 @@
 import TopBar from '@/components/TopBar';
 import Footer from '@/components/Footer';
+import ContactBlock from '@/components/ContactBlock';
 
 export const metadata = {
   title: 'About',
@@ -83,13 +84,11 @@ export default function AboutPage() {
           most valuable contemporary reporting on the sites this project documents.
         </P>
         <P>Errors that remain are the author's.</P>
-        <div className="mt-12 border-t-2 border-accent bg-paper py-7">
-          <div className="eyebrow mb-2">Contact</div>
-          <div className="mb-2 font-serif text-[22px] text-accent">maayusharma@gmail.com</div>
-          <div className="text-[14px] text-ink-soft">
+        <ContactBlock>
+          <div className="mt-3 text-[14px] text-ink-soft">
             For corrections, additions, sources, or general discussion. Press inquiries welcome.
           </div>
-        </div>
+        </ContactBlock>
       </article>
 
       <Footer showBackToHome />
