@@ -24,16 +24,15 @@ export default function AboutPage() {
 
         <H2>Why this project</H2>
         <P>
-          Partition is most often taught — when it is taught at all — as a story of who moved.
+          Partition is most often taught—when it is taught at all—as a story of who moved.
           The figures cited are refugees, deaths, migrations. The maps in textbooks show arrows:
-          people going west, people going east. But the sites that didn't move — that were left
-          in the wrong country when the line was drawn — tell a different story about what was
+          people going west, people going east. But the sites that didn't move—that were left
+          in the wrong country when the line was drawn—tell a different story about what was
           lost. Twenty-eight of them are on this map.
         </P>
         <P>
           The project began as an essay for an AP Language class on the long political and
-          cultural effects of partition. It grew, over{' '}
-          <span className="todo-flag inline-block">the summer of [year]</span>, into a full
+          cultural effects of partition. It grew, over the summer of 2026, into a full
           interactive map and four long-form essays.
         </P>
 
@@ -42,8 +41,8 @@ export default function AboutPage() {
           Severed is a static interactive site. The map uses Leaflet with OpenStreetMap and
           CARTO tiles. The data layer is a single JSON file documenting all twenty-eight sites,
           their sourcing, their access status, and the project's methodology. Each of the four
-          flagship sites — Kartarpur Sahib, Hinglaj Mata Mandir, Sharada Peeth, and Ajmer Sharif
-          Dargah — has its own long-form page with prose, footnoted sources, and a small image gallery.
+          flagship sites—Kartarpur Sahib, Hinglaj Mata Mandir, Sharada Peeth, and Ajmer Sharif
+          Dargah—has its own long-form page with prose, footnoted sources, and a small image gallery.
         </P>
         <P>Severed is hosted by Thoughtful India.</P>
 
@@ -64,17 +63,13 @@ export default function AboutPage() {
 
         <P>
           The project is open about its sources, limits, and the author's own position relative
-          to the material — see the methodology page. The codebase is available on GitHub:{' '}
-          <span className="todo-flag inline-block">[github link]</span>.
+          to the material—see the methodology page.
         </P>
 
         <H2>Acknowledgments</H2>
         <P>
           This project would not exist without Thoughtful India, which provided the editorial
-          home for it.{' '}
-          <span className="todo-flag inline-block">
-            Specific acknowledgments: name your AP Language teacher who responded to the original essay; name any Barnard/Columbia/other faculty who corresponded with you about the project before publication; name family members or friends who read drafts. Be brief but specific. Generic acknowledgments read worse than naming three real people.
-          </span>
+          home for it.
         </P>
         <P>
           The substantial scholarly debt of this project is to the work of historians including{' '}
@@ -88,17 +83,9 @@ export default function AboutPage() {
           most valuable contemporary reporting on the sites this project documents.
         </P>
         <P>Errors that remain are the author's.</P>
-
-        <H2>About Thoughtful India</H2>
-        <P>
-          <span className="todo-flag inline-block">
-            A paragraph describing Thoughtful India and its broader work — pull from Thoughtful India's own about page so the language matches.
-          </span>
-        </P>
-
         <div className="mt-12 border-t-2 border-accent bg-paper py-7">
           <div className="eyebrow mb-2">Contact</div>
-          <div className="mb-2 font-serif text-[22px] text-accent">[your-email@thoughtfulindia.com]</div>
+          <div className="mb-2 font-serif text-[22px] text-accent">maayusharma@gmail.com</div>
           <div className="text-[14px] text-ink-soft">
             For corrections, additions, sources, or general discussion. Press inquiries welcome.
           </div>

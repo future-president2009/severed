@@ -188,8 +188,7 @@ export default function SeveredMap() {
             Severed
           </h1>
           <p className="mt-1.5 text-[13px] leading-[1.5] text-[#4a4a4a]">
-            Sacred sites cut off from their communities when British India was partitioned in 1947
-            &mdash; and the further severances of 1971 and after.{' '}
+            Sacred sites cut off from their communities when British India was partitioned in 1947, and the further severances of 1971 and after.{' '}
             <strong>{typed.meta.sitesCount} sites</strong> across Pakistan, India, and Bangladesh.
           </p>
         </div>
